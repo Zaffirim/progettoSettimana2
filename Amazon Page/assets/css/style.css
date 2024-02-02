@@ -1,0 +1,168 @@
+/* Your styles here */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.2rem;
+    line-height: 1.65;
+    margin: 0;
+    background-color: rgb(172, 172, 172);
+}
+
+
+a{
+    text-decoration: none;
+}
+
+/* Header*/
+
+header {
+    display: inline-block;
+    width: 100%;
+    height: auto;
+    background-color: rgb(57, 57, 122);
+    margin-bottom: 0;
+}
+
+#logoAmazon {
+    width: 10%;
+    margin-left: 0;
+}
+
+nav {
+    background-color: #364759;
+    font-size: 0.8rem;
+    margin: 0;
+}
+
+.navBar {
+    margin-bottom: 0;
+}
+
+
+.subtitleNavBar {
+    background-color: orange;
+    margin-bottom: 20;
+    margin-top: 40;
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+/*MAIN*/
+
+.primaSection {
+    width: 100%;
+}
+
+#banner {
+    margin-top: 20;
+    text-align: center;
+    color: white;
+    background-image: url(../images/bg-image.png);
+    width: 100%;
+    height: auto;
+}
+
+h6 {
+
+    margin-top: 0px;
+
+
+}
+
+h1 {
+    margin-bottom: 0px;
+}
+
+
+/*SECONDO ARTICOLO: 4 IMMAGINI*/
+
+#coloreDivImage {
+
+    background-color: whitesmoke;
+    padding: 1%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+#titleSecondArticle {
+    text-align: left;
+    display: inline;
+    margin-left: 0px;
+    margin-block-start: 0;
+
+}
+
+.shop {
+    color: blue;
+    display: inline;
+}
+
+.contenitoreImmagini {
+    white-space: nowrap;
+    font-size: 0;
+}
+
+.immagine {
+    width: 200px;
+    height: 200px;
+    margin-right: 5%;
+    display: inline-block;
+    border-radius: 2%;
+    box-shadow: 5px 5px 10px #888888
+}
+
+.immagineInMezzo {
+    white-space: nowrap;
+    background-color: white;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 2%;
+    overflow: hidden;
+
+}
+
+.immagine9 {
+    width: 90%;
+    height: 100%;
+    object-fit: cover;
+    margin: 2%;
+    margin-bottom: 3px;
+
+}
+
+/* SOTTOTITOLI IMMAGINE DI MEZZO */
+
+.sottotitoliImmagini {
+    text-align: center;
+    font-size: 1rem;
+    margin-top: 0;
+    display: block;
+}
+
+.linkFinti {
+    color: blue;
+    font-size: 0.8rem;
+    text-decoration: none;
+}
+
+/* FOOTER */
+footer {
+    text-align: center;
+    background-color: rgb(57, 57, 122);
+}
+.scritta{
+    color: white;
+}
+
+.linkFintoFooter {
+    color: white;
+    font-size: 0.8rem;
+    text-decoration: underline;
+    text-align: center;
+    background-color: #364759;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+
+
